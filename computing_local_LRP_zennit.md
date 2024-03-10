@@ -1,6 +1,6 @@
-To compute a local explanation for a ResNet model on the ImageNet dataset using Layer-wise Relevance Propagation (LRP) with Zennit, you would typically follow these steps:
+Computing a local explanation for a ResNet model on the ImageNet dataset using Layer-wise Relevance Propagation (LRP) with Zennit:
 
-1. **Install Zennit**: If you haven't already, install Zennit by running `pip install zennit` in your terminal.
+1. **Install Zennit**:  `pip install zennit` 
 
 2. **Load the Pre-trained ResNet Model**:
 ```python
